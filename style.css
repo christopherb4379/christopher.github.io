@@ -1,0 +1,35 @@
+.row{   
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 4px 4px #ff0000;
+}
+.headshot{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.mid{
+    background-color:white;
+    color:white;
+    align-items:center;
+    font-size:30px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background: rgba(0, 0, 0, 0);
+    text-shadow: 4px 4px #ff0000;
+}
+.aboutme{
+    background: rgba(0, 0, 0, 0);
+}
+body{
+    background-image: url("https://www.gamedevmarket.net/file/76b7d6c22e436e33c09cec4f2ad59f6e.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background: linear-gradient rgba(0, 0, 0, 0.85);
+}
+
